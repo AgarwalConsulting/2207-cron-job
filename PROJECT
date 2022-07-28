@@ -1,0 +1,6 @@
+domain: k8s.algogrit.com
+layout:
+- go.kubebuilder.io/v3
+projectName: project
+repo: k8s.algogrit.com/project
+version: "3"
